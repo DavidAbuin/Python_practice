@@ -84,3 +84,21 @@ while not finished():
 
 print_cars()
 print_finish()
+
+# Basic input
+#dog_years = int(input('Enter age of dog (in years): '))
+print()
+#human_years = 7 * dog_years
+#print(dog_years, 'dog years is about', end=' ')
+#print(human_years, 'years.')
+
+print()
+print('3', end=' ')
+print('2', end=' ')
+print('1', end=' ')
+print('Vamos!')
+
+country_name = 'Canada'
+country_population = 39982379
+print("The population of",country_name, "was", country_population, "in 2025.")
+print()
