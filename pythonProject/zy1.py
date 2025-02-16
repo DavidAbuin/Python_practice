@@ -102,3 +102,5 @@ country_name = 'Canada'
 country_population = 39982379
 print("The population of",country_name, "was", country_population, "in 2025.")
 print()
+
+
