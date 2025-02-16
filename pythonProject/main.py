@@ -1,4 +1,4 @@
-# This is a sample Python script. 15 Feb
+# This is a sample Python script. 15 Feb 2025
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
