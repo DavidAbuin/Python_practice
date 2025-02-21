@@ -94,7 +94,9 @@ x1 = b1 + 2 * x2 - x3
 # Display the solution
 print(f"x1 = {x1}, x2 = {x2}, x3 = {x3}")
 
-#The easier way...
+print()
+#--------------------EASIER WAY------------
+
 # Define the coefficient matrix A and the right-hand side vector b
 A = np.array([[1, -2, 1],
               [0, 2, -8],
