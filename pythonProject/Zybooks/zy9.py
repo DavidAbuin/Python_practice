@@ -198,7 +198,5 @@ Time  13 x = 848 y = 145
 Time  14 x = 919 y =  93
 Time  15 x = 989 y =  31
 
-Feedback?
-participation activity
-9.10.2: Projective location.
+
 '''
